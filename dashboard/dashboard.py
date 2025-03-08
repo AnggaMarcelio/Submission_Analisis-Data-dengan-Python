@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv("day.csv") 
+df = pd.read_csv("dashboard/day.csv") 
 
 # Sidebar untuk navigasi menu
 st.sidebar.title("Menu")
